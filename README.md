@@ -4,7 +4,7 @@
 
 ## Dokumentation der Plausibilitätsprüfungen für die Statistik in NRW
 
-Schule
-Schueler
-Lehrkraefte
-Unterrichtsdaten
+* Schule
+* Schueler
+* Lehrkraefte
+* Unterrichtsdaten
