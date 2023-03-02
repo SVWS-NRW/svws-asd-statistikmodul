@@ -27,14 +27,16 @@ Tabelle: SDB_SCHUELER
 DB: schueler.geschlecht 
 
 ## JSON
-{
+    {
     "Ziel": "schueler"
     "PL": "Geschlecht"
     "Beschreibung":"Prüfung: Geschlecht - gültiger Eintrag" 
 
     "Fehlertext": "Individualdaten I: Geschlecht fehlt oder ist unzulässig besetzt."
+    "identifier" : schueler.id
+    "Objekt_URL": "#/schueler/$identifier/daten"
     "Logik" : " ... "
     "Javacode" : " ... " 
-}
+    }
 
 
