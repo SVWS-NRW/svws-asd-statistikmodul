@@ -2,7 +2,7 @@
 
 Überschrift | Wert
 --------------- | ----------------------------------------
-Bezeichnung | L01_LID-Kuerzel
+Bezeichnung | L0001_LIDKuerzel
 Prüfung | LID-Kürzel - gültiger Eintrag
 Schulform | Alle: 02,04, .... 
 Logik | 1te Stelle LIDKRZ = @ <br> ODER 1te Stelle LIDKRZ kein Großbuchstabe   <br> ODER 2te-4te Stelle LIDKRZ kein Großbuchstabe, Zahl, Strich oder „leer“
