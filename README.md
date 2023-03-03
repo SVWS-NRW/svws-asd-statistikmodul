@@ -7,7 +7,8 @@
 * Schule
 * Schueler
 * Lehrkraefte
-* Unterrichtsdaten
+* Unterricht
 
 ## Aufbau des Quelldokuments für eine PL Prüfung 
 
+Hier finden sie ein [Beispiel](X0001_PL-Muster.md) für die Dokumentationsform für Plausibilitätsprüfungen

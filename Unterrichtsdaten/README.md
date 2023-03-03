@@ -1,6 +1,0 @@
-# SVWS-ASD-Statistikmodul
-
-
-
-## Unterrichtsdaten
-

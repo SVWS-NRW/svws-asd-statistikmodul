@@ -7,7 +7,7 @@ Prüfung | Merkmal - Prüfbeschreibung
 Schulform | Schulformkuerzel 
 Logik | PL in Logiknotation
 Fehlertext | Datenart: Text des Fehlers für den User. 
-Information ASD | Fehlersymbol: X00001 Art: H,M,K Tabelle: Tabellenname
+Information ASD | Fehlersymbol: X00001 <br>   Art: H,M,K <br>  Tabelle: Tabellenname
 Information SVWS | DB: tabelle.feldname 
 
 
