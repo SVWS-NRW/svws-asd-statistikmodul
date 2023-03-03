@@ -1,8 +1,8 @@
-# Schueler S01
+# Schueler S0001
 
 Überschrift | Wert
 --------------- | ----------------------------------------
-Bezeichnung | S01_Geschlecht
+Bezeichnung | S0001_Geschlecht
 Prüfung | Geschlecht - gültiger Eintrag
 Schulform | Alle: 02,04, .... 
 Logik | GESCHLECHT ≠ 3, 4, 5, 6
