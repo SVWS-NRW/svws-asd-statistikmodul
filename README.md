@@ -4,7 +4,7 @@
 
 ## Dokumentation der Plausibilitätsprüfungen für die Statistik in NRW
 
-* Schule
+* [Schule](https://github.com/SVWS-NRW/svws-asd-statistikmodul/tree/main/Schueler)
 * Schueler
 * Lehrkraefte
 * Unterricht
