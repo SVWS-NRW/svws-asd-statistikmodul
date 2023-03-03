@@ -2,7 +2,7 @@
 
 Überschrift | Wert
 --------------- | ----------------------------------------
-Bezeichnung | L02_Lehramt
+Bezeichnung | L0002_Lehramt
 Prüfung | Lehramt - gültiger Eintrag
 Schulform | Alle: 02, 04, .... 
 Logik | LEHRAMTKRZ ≠ @ UND LEHRAMTKRZ IN {ASDTABS.MDB, "Lehramt" ,Feld "Lehramt
