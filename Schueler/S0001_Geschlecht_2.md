@@ -9,7 +9,7 @@ Logik | GESCHLECHT ≠ 3, 4, 5, 6
 Fehlertext | Individualdaten I: Geschlecht fehlt oder ist unzulässig besetzt. 
 Information ASD | Fehlersymbol: A01 Art: H Tabelle: SCHUELER
 Information SVWS | DB: schueler.geschlecht 
-
+Schlüssel | [geschlecht](https://github.com/SVWS-NRW/svws-asd-statistikmodul/blob/main/Schluesseltabellen/geschlecht.java)
 
 ## JSON
 ```
