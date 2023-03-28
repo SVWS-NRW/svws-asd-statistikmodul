@@ -13,8 +13,8 @@ Bemerkung | Wenn Geschlscht NULL, dann löst der Fehler auch aus.
 
 ## Referenzen zum Quellcode
 
-- [Geschlecht](https://github.com/SVWS-NRW/SVWS-Server/blob/dev/svws-core/src/main/java/de/nrw/schule/svws/core/types/Geschlecht.java)
-- [SchuelerStammdaten](https://github.com/SVWS-NRW/SVWS-Server/blob/dev/svws-core/src/main/java/de/nrw/schule/svws/core/data/schueler/SchuelerStammdaten.java)
+- [Geschlecht](https://github.com/SVWS-NRW/SVWS-Server/blob/dev/svws-core/src/main/java/de/svws_nrw/core/types/Geschlecht.java)
+- [SchuelerStammdaten](https://github.com/SVWS-NRW/SVWS-Server/blob/dev/svws-core/src/main/java/de/svws_nrw/core/data/schueler/SchuelerStammdaten.java)
 - [Lamba](./PLSchuelerStammdaten.java)
 - [Fehlerausgabe](./PLSchuelerStammdatenFehler.java)
 
