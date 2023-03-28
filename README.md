@@ -11,10 +11,9 @@
 
 ## Aufbau des Quelldokuments für eine PL Prüfung 
 
-Hier finden sie ein [Beispiel](Beschreibung_PL-Muster.md) für die Dokumentationsform für Plausibilitätsprüfungen
+Hier finden sie ein [Beispiel](X0001_PL-Muster.md) für die Dokumentationsform für Plausibilitätsprüfungen
 
 ## Legende für die Logik-Formulierungen
 
 ≠ ist nicht
-
 @ ist leer
